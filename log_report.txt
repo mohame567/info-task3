@@ -1,0 +1,862 @@
+
+
+==== REQUEST COUNTS ====
+Total requests: 147820
+GET requests: 137310 (92.93%)
+POST requests: 9215 (6.23%)
+Other requests: 1295 (0.88%)
+
+==== IP ADDRESS ANALYSIS ====
+Unique IP addresses: 9312
+
+Top 10 most active IPs:
+76.108.110.119  11562 requests
+100.43.83.129   2845 requests
+95.108.151.244  2198 requests
+188.40.97.2     1583 requests
+74.124.210.252  1501 requests
+88.101.26.168   1423 requests
+24.148.88.84    1389 requests
+66.249.73.188   1322 requests
+99.38.246.209   1198 requests
+24.22.176.135   1135 requests
+
+Request methods by IP (top 10 IPs):
+76.108.110.119  GET: 9094  POST: 2679  Other: 0    
+100.43.83.129   GET: 2911  POST: 0     Other: 0    
+95.108.151.244  GET: 2244  POST: 0     Other: 0    
+188.40.97.2     GET: 1030  POST: 515   Other: 0    
+74.124.210.252  GET: 1018  POST: 509   Other: 0    
+88.101.26.168   GET: 1457  POST: 0     Other: 0    
+24.148.88.84    GET: 1056  POST: 311   Other: 0    
+66.249.73.188   GET: 1351  POST: 0     Other: 0    
+99.38.246.209   GET: 1170  POST: 0     Other: 0    
+24.22.176.135   GET: 1147  POST: 0     Other: 0    
+==== ERROR ANALYSIS ====
+Failed requests: 4554 (2.91%)
+Client errors (4xx): 4548 (2.91%)
+Server errors (5xx): 6 (0.00%)
+
+Top 5 error status codes:
+404 4533
+405 9
+500 6
+403 5
+416 1
+
+==== USER BEHAVIOR ====
+Most active IP: 76.108.110.119 with 11773 requests (7.80% of all traffic)
+
+==== TEMPORAL ANALYSIS ====
+Daily request statistics:
+01/00/2011: 548 requests
+01/00/2012: 3802 requests
+02/00/2011: 944 requests
+02/00/2012: 3449 requests
+03/00/2011: 697 requests
+03/00/2012: 3543 requests
+04/00/2011: 1062 requests
+04/00/2012: 8106 requests
+05/00/2011: 981 requests
+05/00/2012: 3433 requests
+06/00/2011: 892 requests
+06/00/2012: 3077 requests
+07/00/2011: 1888 requests
+07/00/2012: 3621 requests
+08/00/2011: 3967 requests
+08/00/2012: 2886 requests
+09/00/2011: 1901 requests
+09/00/2012: 3080 requests
+10/00/2011: 852 requests
+10/00/2012: 4152 requests
+11/00/2011: 2732 requests
+11/00/2012: 3427 requests
+12/00/2011: 1001 requests
+12/00/2012: 5188 requests
+13/00/2011: 1175 requests
+13/00/2012: 3690 requests
+14/00/2011: 910 requests
+14/00/2012: 3297 requests
+15/00/2011: 1053 requests
+15/00/2012: 3257 requests
+16/00/2011: 465 requests
+16/00/2012: 3263 requests
+17/00/2011: 585 requests
+17/00/2012: 4824 requests
+18/00/2011: 1179 requests
+18/00/2012: 4470 requests
+19/00/2011: 1047 requests
+19/00/2012: 3211 requests
+20/00/2011: 1446 requests
+20/00/2012: 3350 requests
+21/00/2011: 897 requests
+21/00/2012: 3937 requests
+22/00/2011: 2050 requests
+22/00/2012: 3282 requests
+23/00/2011: 984 requests
+23/00/2012: 4234 requests
+24/00/2011: 616 requests
+24/00/2012: 3151 requests
+25/00/2011: 612 requests
+25/00/2012: 3138 requests
+26/00/2011: 1724 requests
+26/00/2012: 3541 requests
+27/00/2011: 707 requests
+27/00/2012: 4002 requests
+28/00/2011: 1065 requests
+28/00/2012: 3553 requests
+29/00/2011: 975 requests
+29/00/2012: 3228 requests
+30/00/2011: 1422 requests
+30/00/2012: 3279 requests
+31/00/2011: 350 requests
+31/00/2012: 1767 requests
+
+Date range: 01/00/2011 to 31/00/2012
+Average daily requests: 2434.92
+Average including days with no requests: 381.22
+
+Failure requests by day (with failure rates):
+01/00/2011: 8 failures (1.46% failure rate)
+01/00/2012: 65 failures (1.71% failure rate)
+02/00/2011: 14 failures (1.48% failure rate)
+02/00/2012: 76 failures (2.20% failure rate)
+03/00/2011: 13 failures (1.87% failure rate)
+03/00/2012: 68 failures (1.92% failure rate)
+04/00/2011: 34 failures (3.20% failure rate)
+04/00/2012: 102 failures (1.26% failure rate)
+05/00/2011: 3 failures (0.31% failure rate)
+05/00/2012: 64 failures (1.86% failure rate)
+06/00/2011: 8 failures (0.90% failure rate)
+06/00/2012: 57 failures (1.85% failure rate)
+07/00/2011: 15 failures (0.79% failure rate)
+07/00/2012: 108 failures (2.98% failure rate)
+08/00/2011: 20 failures (0.50% failure rate)
+08/00/2012: 94 failures (3.26% failure rate)
+09/00/2011: 20 failures (1.05% failure rate)
+09/00/2012: 101 failures (3.28% failure rate)
+10/00/2011: 11 failures (1.29% failure rate)
+10/00/2012: 54 failures (1.30% failure rate)
+11/00/2011: 44 failures (1.61% failure rate)
+11/00/2012: 96 failures (2.80% failure rate)
+12/00/2011: 83 failures (8.29% failure rate)
+12/00/2012: 88 failures (1.70% failure rate)
+13/00/2011: 10 failures (0.85% failure rate)
+13/00/2012: 47 failures (1.27% failure rate)
+14/00/2011: 59 failures (6.48% failure rate)
+14/00/2012: 286 failures (8.67% failure rate)
+15/00/2011: 16 failures (1.52% failure rate)
+15/00/2012: 363 failures (11.15% failure rate)
+16/00/2011: 15 failures (3.23% failure rate)
+16/00/2012: 81 failures (2.48% failure rate)
+17/00/2011: 14 failures (2.39% failure rate)
+17/00/2012: 121 failures (2.51% failure rate)
+18/00/2011: 481 failures (40.80% failure rate)
+18/00/2012: 116 failures (2.60% failure rate)
+19/00/2011: 61 failures (5.83% failure rate)
+19/00/2012: 52 failures (1.62% failure rate)
+20/00/2011: 41 failures (2.84% failure rate)
+20/00/2012: 91 failures (2.72% failure rate)
+21/00/2011: 37 failures (4.12% failure rate)
+21/00/2012: 68 failures (1.73% failure rate)
+22/00/2011: 129 failures (6.29% failure rate)
+22/00/2012: 74 failures (2.25% failure rate)
+23/00/2011: 59 failures (6.00% failure rate)
+23/00/2012: 93 failures (2.20% failure rate)
+24/00/2011: 12 failures (1.95% failure rate)
+24/00/2012: 74 failures (2.35% failure rate)
+25/00/2011: 32 failures (5.23% failure rate)
+25/00/2012: 74 failures (2.36% failure rate)
+26/00/2011: 319 failures (18.50% failure rate)
+26/00/2012: 57 failures (1.61% failure rate)
+27/00/2011: 13 failures (1.84% failure rate)
+27/00/2012: 78 failures (1.95% failure rate)
+28/00/2011: 42 failures (3.94% failure rate)
+28/00/2012: 77 failures (2.17% failure rate)
+29/00/2011: 6 failures (0.62% failure rate)
+29/00/2012: 66 failures (2.04% failure rate)
+30/00/2011: 39 failures (2.74% failure rate)
+30/00/2012: 52 failures (1.59% failure rate)
+31/00/2011: 22 failures (6.29% failure rate)
+31/00/2012: 31 failures (1.75% failure rate)
+
+Hourly request distribution:
+Time            Requests   Percentage
+----            --------   ----------
+00:00-00:59   4723       3.13%
+01:00-01:59   4908       3.25%
+02:00-02:59   3902       2.58%
+03:00-03:59   4854       3.22%
+04:00-04:59   4593       3.04%
+05:00-05:59   5641       3.74%
+06:00-06:59   5449       3.61%
+07:00-07:59   5383       3.57%
+08:00-08:59   5836       3.87%
+09:00-09:59   6036       4.00%
+10:00-10:59   7995       5.30%
+11:00-11:59   6960       4.61%
+12:00-12:59   8871       5.88%
+13:00-13:59   6694       4.43%
+14:00-14:59   8720       5.78%
+15:00-15:59   6867       4.55%
+16:00-16:59   6927       4.59%
+17:00-17:59   7051       4.67%
+18:00-18:59   6525       4.32%
+19:00-19:59   6521       4.32%
+20:00-20:59   5362       3.55%
+21:00-21:59   6280       4.16%
+22:00-22:59   9012       5.97%
+23:00-23:59   5855       3.88%
+
+Request trend by hour:
+00:00: 4723 requests
+01:00: 4908 requests ↑ 3.9% from previous hour
+02:00: 3902 requests ↓ 20.5% from previous hour
+03:00: 4854 requests ↑ 24.4% from previous hour
+04:00: 4593 requests ↓ 5.4% from previous hour
+05:00: 5641 requests ↑ 22.8% from previous hour
+06:00: 5449 requests ↓ 3.4% from previous hour
+07:00: 5383 requests ↓ 1.2% from previous hour
+08:00: 5836 requests ↑ 8.4% from previous hour
+09:00: 6036 requests ↑ 3.4% from previous hour
+10:00: 7995 requests ↑ 32.5% from previous hour
+11:00: 6960 requests ↓ 12.9% from previous hour
+12:00: 8871 requests ↑ 27.5% from previous hour
+13:00: 6694 requests ↓ 24.5% from previous hour
+14:00: 8720 requests ↑ 30.3% from previous hour
+15:00: 6867 requests ↓ 21.2% from previous hour
+16:00: 6927 requests ↑ 0.9% from previous hour
+17:00: 7051 requests ↑ 1.8% from previous hour
+18:00: 6525 requests ↓ 7.5% from previous hour
+19:00: 6521 requests ↓ 0.1% from previous hour
+20:00: 5362 requests ↓ 17.8% from previous hour
+21:00: 6280 requests ↑ 17.1% from previous hour
+22:00: 9012 requests ↑ 43.5% from previous hour
+23:00: 5855 requests ↓ 35.0% from previous hour
+
+==== STATUS CODE ANALYSIS ====
+Status code distribution:
+----   -----      ----------
+200    113740     75.34%
+206    9043       5.99%
+301    3891       2.58%
+302    1345       0.89%
+304    18389      12.18%
+403    5          0.00%
+404    4533       3.00%
+405    9          0.01%
+416    1          0.00%
+500    6          0.00%
+Code   Count      Percentage
+HTTP/1.1" 3          0.00%
+
+==== METHOD USAGE BY USERS ====
+Most GET-heavy IP:
+76.108.110.119  9077 GET requests (6.45% of all GET requests)
+Most POST-heavy IP:
+76.108.110.119  2672 POST requests (29.10% of all POST requests)
+
+==== ERROR PATTERNS ====
+Failure distribution by hour (with failure rates):
+Hour            Failures   Failure Rate
+----            --------   ------------
+00:00-00:59   94         1.99%
+01:00-01:59   111        2.26%
+02:00-02:59   111        2.84%
+03:00-03:59   99         2.04%
+04:00-04:59   112        2.44%
+05:00-05:59   162        2.87%
+06:00-06:59   120        2.20%
+07:00-07:59   415        7.71%
+08:00-08:59   90         1.54%
+09:00-09:59   113        1.87%
+10:00-10:59   174        2.18%
+11:00-11:59   140        2.01%
+12:00-12:59   148        1.67%
+13:00-13:59   90         1.34%
+14:00-14:59   592        6.79%
+15:00-15:59   218        3.17%
+16:00-16:59   147        2.12%
+17:00-17:59   148        2.10%
+18:00-18:59   176        2.70%
+19:00-19:59   400        6.13%
+20:00-20:59   144        2.69%
+21:00-21:59   292        4.65%
+22:00-22:59   370        4.11%
+23:00-23:59   88         1.50%
+
+Top 5 URLs with most errors (with error rates):
+/sitemap.xml.gz                          586 errors (100.00% error rate)
+/comments/feed                           527 errors (98.50% error rate)
+/feed                                    458 errors (43.54% error rate)
+/admin.php                               239 errors (100.00% error rate)
+/feed/rss                                76 errors (39.79% error rate)
+
+==== SECURITY ANALYSIS ====
+IPs with rapid succession requests (potential DoS):
+76.108.110.119  10088 rapid requests (10088.00 req/sec)
+95.108.151.244  2134 rapid requests (2134.00 req/sec)
+188.40.97.2     1527 rapid requests (1527.00 req/sec)
+74.124.210.252  1516 rapid requests (1516.00 req/sec)
+88.101.26.168   1231 rapid requests (1231.00 req/sec)
+99.38.246.209   1086 rapid requests (1086.00 req/sec)
+24.148.88.84    1065 rapid requests (1065.00 req/sec)
+37.9.53.71      1060 rapid requests (1060.00 req/sec)
+24.22.176.135   1031 rapid requests (1031.00 req/sec)
+199.79.62.8     1023 rapid requests (1023.00 req/sec)
+195.238.176.90  698 rapid requests (698.00 req/sec)
+95.108.150.235  683 rapid requests (683.00 req/sec)
+111.187.77.231  622 rapid requests (622.00 req/sec)
+210.115.61.136  586 rapid requests (586.00 req/sec)
+82.28.67.122    565 rapid requests (565.00 req/sec)
+96.24.22.1      553 rapid requests (553.00 req/sec)
+100.43.83.129   533 rapid requests (533.00 req/sec)
+117.226.202.201 510 rapid requests (510.00 req/sec)
+221.224.13.25   468 rapid requests (468.00 req/sec)
+124.121.238.48  466 rapid requests (466.00 req/sec)
+217.64.101.51   404 rapid requests (404.00 req/sec)
+60.208.246.66   403 rapid requests (403.00 req/sec)
+89.230.194.5    401 rapid requests (401.00 req/sec)
+71.13.220.135   380 rapid requests (380.00 req/sec)
+82.136.203.108  358 rapid requests (358.00 req/sec)
+211.54.13.61    357 rapid requests (357.00 req/sec)
+64.56.91.45     335 rapid requests (335.00 req/sec)
+184.107.179.242 326 rapid requests (326.00 req/sec)
+91.224.160.116  311 rapid requests (311.00 req/sec)
+72.35.37.74     303 rapid requests (303.00 req/sec)
+173.46.232.33   294 rapid requests (294.00 req/sec)
+121.150.216.50  281 rapid requests (281.00 req/sec)
+188.175.30.161  278 rapid requests (278.00 req/sec)
+94.113.221.238  275 rapid requests (275.00 req/sec)
+165.189.65.25   262 rapid requests (262.00 req/sec)
+93.158.147.8    258 rapid requests (258.00 req/sec)
+211.33.28.232   255 rapid requests (255.00 req/sec)
+194.66.32.21    239 rapid requests (239.00 req/sec)
+70.161.177.214  239 rapid requests (239.00 req/sec)
+74.61.173.4     236 rapid requests (236.00 req/sec)
+49.144.240.232  234 rapid requests (234.00 req/sec)
+98.219.126.176  230 rapid requests (230.00 req/sec)
+119.162.55.11   229 rapid requests (229.00 req/sec)
+24.148.0.215    227 rapid requests (227.00 req/sec)
+212.156.209.253 224 rapid requests (224.00 req/sec)
+209.139.228.161 223 rapid requests (223.00 req/sec)
+192.162.203.93  215 rapid requests (215.00 req/sec)
+1.214.109.145   213 rapid requests (213.00 req/sec)
+65.24.242.14    212 rapid requests (212.00 req/sec)
+208.90.173.85   208 rapid requests (208.00 req/sec)
+188.143.233.7   204 rapid requests (204.00 req/sec)
+178.253.61.78   202 rapid requests (202.00 req/sec)
+61.221.28.243   195 rapid requests (195.00 req/sec)
+124.6.181.183   193 rapid requests (193.00 req/sec)
+173.193.219.168 191 rapid requests (191.00 req/sec)
+39.113.92.180   187 rapid requests (187.00 req/sec)
+176.9.148.197   185 rapid requests (185.00 req/sec)
+93.39.185.99    185 rapid requests (185.00 req/sec)
+46.117.165.238  184 rapid requests (184.00 req/sec)
+196.201.51.18   181 rapid requests (181.00 req/sec)
+68.57.64.36     177 rapid requests (177.00 req/sec)
+78.45.122.68    177 rapid requests (177.00 req/sec)
+118.97.164.116  174 rapid requests (174.00 req/sec)
+67.211.8.22     173 rapid requests (173.00 req/sec)
+80.240.162.190  166 rapid requests (166.00 req/sec)
+188.175.49.10   164 rapid requests (164.00 req/sec)
+60.208.159.108  163 rapid requests (163.00 req/sec)
+112.118.88.91   161 rapid requests (161.00 req/sec)
+24.9.224.157    161 rapid requests (161.00 req/sec)
+176.9.146.19    160 rapid requests (160.00 req/sec)
+50.132.44.246   157 rapid requests (157.00 req/sec)
+24.130.34.81    155 rapid requests (155.00 req/sec)
+131.175.62.111  153 rapid requests (153.00 req/sec)
+188.143.232.184 150 rapid requests (150.00 req/sec)
+173.199.120.67  149 rapid requests (149.00 req/sec)
+173.234.248.49  148 rapid requests (148.00 req/sec)
+219.77.206.12   147 rapid requests (147.00 req/sec)
+108.67.38.99    144 rapid requests (144.00 req/sec)
+174.48.153.215  142 rapid requests (142.00 req/sec)
+173.192.34.95   141 rapid requests (141.00 req/sec)
+209.202.115.142 141 rapid requests (141.00 req/sec)
+93.110.143.3    141 rapid requests (141.00 req/sec)
+77.75.77.11     135 rapid requests (135.00 req/sec)
+176.9.139.112   132 rapid requests (132.00 req/sec)
+64.202.160.161  130 rapid requests (130.00 req/sec)
+99.199.53.245   130 rapid requests (130.00 req/sec)
+72.128.82.184   129 rapid requests (129.00 req/sec)
+76.164.106.240  129 rapid requests (129.00 req/sec)
+113.190.141.198 128 rapid requests (128.00 req/sec)
+131.109.225.17  127 rapid requests (127.00 req/sec)
+161.38.218.167  126 rapid requests (126.00 req/sec)
+75.150.59.19    125 rapid requests (125.00 req/sec)
+77.75.77.17     122 rapid requests (122.00 req/sec)
+79.26.6.235     122 rapid requests (122.00 req/sec)
+168.9.35.22     121 rapid requests (121.00 req/sec)
+67.180.65.158   120 rapid requests (120.00 req/sec)
+193.6.158.155   119 rapid requests (119.00 req/sec)
+64.71.94.10     119 rapid requests (119.00 req/sec)
+92.249.127.111  119 rapid requests (119.00 req/sec)
+85.226.147.228  118 rapid requests (118.00 req/sec)
+62.195.151.7    117 rapid requests (117.00 req/sec)
+66.249.73.188   117 rapid requests (117.00 req/sec)
+75.77.87.18     117 rapid requests (117.00 req/sec)
+96.54.168.155   117 rapid requests (117.00 req/sec)
+109.76.241.216  112 rapid requests (112.00 req/sec)
+91.198.168.8    111 rapid requests (111.00 req/sec)
+66.249.71.214   110 rapid requests (110.00 req/sec)
+75.109.209.64   110 rapid requests (110.00 req/sec)
+174.123.25.74   107 rapid requests (107.00 req/sec)
+69.113.4.253    107 rapid requests (107.00 req/sec)
+69.84.207.147   107 rapid requests (107.00 req/sec)
+109.120.157.179 105 rapid requests (105.00 req/sec)
+194.83.242.251  105 rapid requests (105.00 req/sec)
+65.24.44.183    105 rapid requests (105.00 req/sec)
+176.9.148.196   104 rapid requests (104.00 req/sec)
+176.9.50.103    104 rapid requests (104.00 req/sec)
+88.191.66.33    103 rapid requests (103.00 req/sec)
+81.169.143.225  102 rapid requests (102.00 req/sec)
+99.44.49.237    101 rapid requests (101.00 req/sec)
+24.7.14.254     100 rapid requests (100.00 req/sec)
+31.210.105.189  100 rapid requests (100.00 req/sec)
+71.90.237.61    100 rapid requests (100.00 req/sec)
+217.69.133.31   98 rapid requests (98.00 req/sec)
+75.84.109.176   98 rapid requests (98.00 req/sec)
+76.168.73.193   98 rapid requests (98.00 req/sec)
+93.39.255.165   98 rapid requests (98.00 req/sec)
+1.214.109.38    97 rapid requests (97.00 req/sec)
+207.241.237.214 96 rapid requests (96.00 req/sec)
+65.31.16.78     95 rapid requests (95.00 req/sec)
+62.169.116.214  94 rapid requests (94.00 req/sec)
+66.162.122.179  94 rapid requests (94.00 req/sec)
+130.115.77.130  92 rapid requests (92.00 req/sec)
+157.55.116.22   92 rapid requests (92.00 req/sec)
+76.127.200.71   92 rapid requests (92.00 req/sec)
+89.176.182.63   92 rapid requests (92.00 req/sec)
+67.127.253.68   90 rapid requests (90.00 req/sec)
+210.49.169.123  89 rapid requests (89.00 req/sec)
+159.253.143.53  86 rapid requests (86.00 req/sec)
+173.13.61.173   86 rapid requests (86.00 req/sec)
+176.74.192.87   86 rapid requests (86.00 req/sec)
+192.38.117.2    86 rapid requests (86.00 req/sec)
+178.255.215.71  85 rapid requests (85.00 req/sec)
+94.73.238.234   85 rapid requests (85.00 req/sec)
+107.22.12.69    84 rapid requests (84.00 req/sec)
+184.72.184.147  84 rapid requests (84.00 req/sec)
+184.72.193.195  84 rapid requests (84.00 req/sec)
+23.20.234.191   84 rapid requests (84.00 req/sec)
+23.20.240.200   84 rapid requests (84.00 req/sec)
+50.17.140.250   84 rapid requests (84.00 req/sec)
+107.21.164.151  83 rapid requests (83.00 req/sec)
+174.129.79.82   83 rapid requests (83.00 req/sec)
+174.59.186.147  83 rapid requests (83.00 req/sec)
+184.72.209.173  83 rapid requests (83.00 req/sec)
+184.72.69.143   83 rapid requests (83.00 req/sec)
+204.236.193.50  83 rapid requests (83.00 req/sec)
+23.20.116.129   83 rapid requests (83.00 req/sec)
+50.17.7.185     83 rapid requests (83.00 req/sec)
+86.29.201.221   83 rapid requests (83.00 req/sec)
+107.21.134.29   81 rapid requests (81.00 req/sec)
+173.167.138.113 81 rapid requests (81.00 req/sec)
+189.170.83.238  81 rapid requests (81.00 req/sec)
+70.66.8.57      81 rapid requests (81.00 req/sec)
+72.224.16.212   81 rapid requests (81.00 req/sec)
+75.72.102.149   81 rapid requests (81.00 req/sec)
+79.183.209.86   81 rapid requests (81.00 req/sec)
+150.108.60.173  80 rapid requests (80.00 req/sec)
+176.9.155.226   80 rapid requests (80.00 req/sec)
+184.43.31.174   80 rapid requests (80.00 req/sec)
+129.114.243.20  79 rapid requests (79.00 req/sec)
+69.84.207.246   79 rapid requests (79.00 req/sec)
+189.182.113.96  78 rapid requests (78.00 req/sec)
+68.255.98.201   78 rapid requests (78.00 req/sec)
+71.203.197.162  78 rapid requests (78.00 req/sec)
+89.72.181.93    78 rapid requests (78.00 req/sec)
+189.169.85.137  77 rapid requests (77.00 req/sec)
+24.161.54.173   77 rapid requests (77.00 req/sec)
+173.75.152.13   76 rapid requests (76.00 req/sec)
+76.127.20.200   76 rapid requests (76.00 req/sec)
+76.29.33.237    74 rapid requests (74.00 req/sec)
+80.217.165.139  74 rapid requests (74.00 req/sec)
+95.160.106.175  74 rapid requests (74.00 req/sec)
+24.22.176.185   73 rapid requests (73.00 req/sec)
+66.249.71.237   73 rapid requests (73.00 req/sec)
+70.69.244.43    73 rapid requests (73.00 req/sec)
+99.127.228.139  73 rapid requests (73.00 req/sec)
+24.47.187.134   72 rapid requests (72.00 req/sec)
+69.4.56.199     72 rapid requests (72.00 req/sec)
+79.97.147.84    72 rapid requests (72.00 req/sec)
+92.82.228.135   72 rapid requests (72.00 req/sec)
+118.151.210.202 71 rapid requests (71.00 req/sec)
+174.47.210.162  71 rapid requests (71.00 req/sec)
+188.138.56.70   71 rapid requests (71.00 req/sec)
+206.127.111.112 71 rapid requests (71.00 req/sec)
+68.48.36.51     70 rapid requests (70.00 req/sec)
+82.18.123.147   70 rapid requests (70.00 req/sec)
+1.210.105.28    69 rapid requests (69.00 req/sec)
+129.114.243.185 69 rapid requests (69.00 req/sec)
+188.138.101.216 69 rapid requests (69.00 req/sec)
+198.7.241.85    69 rapid requests (69.00 req/sec)
+64.22.106.82    69 rapid requests (69.00 req/sec)
+71.189.1.152    69 rapid requests (69.00 req/sec)
+72.177.31.25    69 rapid requests (69.00 req/sec)
+91.224.160.35   69 rapid requests (69.00 req/sec)
+92.201.75.124   69 rapid requests (69.00 req/sec)
+95.168.172.156  69 rapid requests (69.00 req/sec)
+67.195.112.233  68 rapid requests (68.00 req/sec)
+46.4.121.36     67 rapid requests (67.00 req/sec)
+66.249.71.228   67 rapid requests (67.00 req/sec)
+80.135.36.97    67 rapid requests (67.00 req/sec)
+81.144.138.34   67 rapid requests (67.00 req/sec)
+84.112.36.161   67 rapid requests (67.00 req/sec)
+84.141.181.30   67 rapid requests (67.00 req/sec)
+99.42.212.9     67 rapid requests (67.00 req/sec)
+174.129.228.67  66 rapid requests (66.00 req/sec)
+50.40.171.105   66 rapid requests (66.00 req/sec)
+69.205.127.76   66 rapid requests (66.00 req/sec)
+67.177.214.16   65 rapid requests (65.00 req/sec)
+71.224.214.102  65 rapid requests (65.00 req/sec)
+97.123.55.238   65 rapid requests (65.00 req/sec)
+98.252.164.93   65 rapid requests (65.00 req/sec)
+158.194.41.125  64 rapid requests (64.00 req/sec)
+66.249.72.121   64 rapid requests (64.00 req/sec)
+178.164.205.198 63 rapid requests (63.00 req/sec)
+178.253.62.225  63 rapid requests (63.00 req/sec)
+197.87.63.129   63 rapid requests (63.00 req/sec)
+213.110.133.221 63 rapid requests (63.00 req/sec)
+24.223.132.180  63 rapid requests (63.00 req/sec)
+24.49.134.235   63 rapid requests (63.00 req/sec)
+71.50.3.59      63 rapid requests (63.00 req/sec)
+72.13.155.12    63 rapid requests (63.00 req/sec)
+217.69.134.91   62 rapid requests (62.00 req/sec)
+155.230.147.161 61 rapid requests (61.00 req/sec)
+174.133.5.250   61 rapid requests (61.00 req/sec)
+188.138.86.35   60 rapid requests (60.00 req/sec)
+65.242.114.226  60 rapid requests (60.00 req/sec)
+68.111.239.95   60 rapid requests (60.00 req/sec)
+69.245.2.212    60 rapid requests (60.00 req/sec)
+76.181.201.242  60 rapid requests (60.00 req/sec)
+88.73.14.187    60 rapid requests (60.00 req/sec)
+99.170.174.242  60 rapid requests (60.00 req/sec)
+166.205.138.137 59 rapid requests (59.00 req/sec)
+50.90.112.218   59 rapid requests (59.00 req/sec)
+66.249.71.196   59 rapid requests (59.00 req/sec)
+70.153.76.246   59 rapid requests (59.00 req/sec)
+94.113.221.85   59 rapid requests (59.00 req/sec)
+130.83.167.153  58 rapid requests (58.00 req/sec)
+192.162.19.183  58 rapid requests (58.00 req/sec)
+207.96.47.130   58 rapid requests (58.00 req/sec)
+50.90.46.105    58 rapid requests (58.00 req/sec)
+64.71.91.67     58 rapid requests (58.00 req/sec)
+75.65.19.120    58 rapid requests (58.00 req/sec)
+85.17.29.107    58 rapid requests (58.00 req/sec)
+157.178.1.101   57 rapid requests (57.00 req/sec)
+218.58.10.17    57 rapid requests (57.00 req/sec)
+66.249.73.156   57 rapid requests (57.00 req/sec)
+77.75.77.36     57 rapid requests (57.00 req/sec)
+79.112.91.127   57 rapid requests (57.00 req/sec)
+182.48.60.230   56 rapid requests (56.00 req/sec)
+74.192.235.2    56 rapid requests (56.00 req/sec)
+74.96.251.100   56 rapid requests (56.00 req/sec)
+76.20.251.15    56 rapid requests (56.00 req/sec)
+41.96.78.167    55 rapid requests (55.00 req/sec)
+62.24.252.133   55 rapid requests (55.00 req/sec)
+93.172.249.176  55 rapid requests (55.00 req/sec)
+108.77.230.114  54 rapid requests (54.00 req/sec)
+163.239.72.44   54 rapid requests (54.00 req/sec)
+173.215.160.221 54 rapid requests (54.00 req/sec)
+176.9.148.194   54 rapid requests (54.00 req/sec)
+201.237.46.178  54 rapid requests (54.00 req/sec)
+220.84.133.35   54 rapid requests (54.00 req/sec)
+64.107.81.140   54 rapid requests (54.00 req/sec)
+69.121.58.202   54 rapid requests (54.00 req/sec)
+94.54.227.101   54 rapid requests (54.00 req/sec)
+98.220.104.187  54 rapid requests (54.00 req/sec)
+112.111.190.155 53 rapid requests (53.00 req/sec)
+157.55.39.86    53 rapid requests (53.00 req/sec)
+160.39.86.56    53 rapid requests (53.00 req/sec)
+174.99.75.252   53 rapid requests (53.00 req/sec)
+175.44.0.89     53 rapid requests (53.00 req/sec)
+183.57.128.20   53 rapid requests (53.00 req/sec)
+194.44.168.66   53 rapid requests (53.00 req/sec)
+24.34.194.184   53 rapid requests (53.00 req/sec)
+24.4.36.121     53 rapid requests (53.00 req/sec)
+72.15.30.50     53 rapid requests (53.00 req/sec)
+75.33.42.76     53 rapid requests (53.00 req/sec)
+76.218.215.49   53 rapid requests (53.00 req/sec)
+80.82.2.33      53 rapid requests (53.00 req/sec)
+120.32.228.106  52 rapid requests (52.00 req/sec)
+175.44.25.175   52 rapid requests (52.00 req/sec)
+50.131.67.197   52 rapid requests (52.00 req/sec)
+66.188.89.38    52 rapid requests (52.00 req/sec)
+71.189.127.82   52 rapid requests (52.00 req/sec)
+78.61.84.169    52 rapid requests (52.00 req/sec)
+84.165.251.188  52 rapid requests (52.00 req/sec)
+98.252.147.157  52 rapid requests (52.00 req/sec)
+99.99.196.9     52 rapid requests (52.00 req/sec)
+24.180.128.188  51 rapid requests (51.00 req/sec)
+69.58.178.56    51 rapid requests (51.00 req/sec)
+96.24.120.173   51 rapid requests (51.00 req/sec)
+193.47.80.43    50 rapid requests (50.00 req/sec)
+205.178.96.46   50 rapid requests (50.00 req/sec)
+24.197.131.4    50 rapid requests (50.00 req/sec)
+72.128.222.156  50 rapid requests (50.00 req/sec)
+76.116.169.221  50 rapid requests (50.00 req/sec)
+98.246.40.148   50 rapid requests (50.00 req/sec)
+107.3.151.110   48 rapid requests (48.00 req/sec)
+109.65.214.98   48 rapid requests (48.00 req/sec)
+194.152.198.21  48 rapid requests (48.00 req/sec)
+209.37.78.16    48 rapid requests (48.00 req/sec)
+66.94.67.226    48 rapid requests (48.00 req/sec)
+69.226.228.77   48 rapid requests (48.00 req/sec)
+75.154.226.214  48 rapid requests (48.00 req/sec)
+79.129.219.11   48 rapid requests (48.00 req/sec)
+105.136.123.196 47 rapid requests (47.00 req/sec)
+157.55.116.21   47 rapid requests (47.00 req/sec)
+173.20.213.181  47 rapid requests (47.00 req/sec)
+64.235.108.251  47 rapid requests (47.00 req/sec)
+66.227.215.179  47 rapid requests (47.00 req/sec)
+68.84.4.97      47 rapid requests (47.00 req/sec)
+70.3.216.112    47 rapid requests (47.00 req/sec)
+71.233.8.36     47 rapid requests (47.00 req/sec)
+72.30.161.235   47 rapid requests (47.00 req/sec)
+89.108.102.171  47 rapid requests (47.00 req/sec)
+89.68.141.129   47 rapid requests (47.00 req/sec)
+210.126.48.160  46 rapid requests (46.00 req/sec)
+212.113.37.106  46 rapid requests (46.00 req/sec)
+66.7.139.222    46 rapid requests (46.00 req/sec)
+68.125.33.2     46 rapid requests (46.00 req/sec)
+71.84.68.127    46 rapid requests (46.00 req/sec)
+108.5.114.99    45 rapid requests (45.00 req/sec)
+131.244.3.45    45 rapid requests (45.00 req/sec)
+159.83.252.233  45 rapid requests (45.00 req/sec)
+68.166.198.26   45 rapid requests (45.00 req/sec)
+74.195.224.31   45 rapid requests (45.00 req/sec)
+86.178.230.181  45 rapid requests (45.00 req/sec)
+89.173.156.226  45 rapid requests (45.00 req/sec)
+122.162.4.178   44 rapid requests (44.00 req/sec)
+174.48.74.210   44 rapid requests (44.00 req/sec)
+192.231.215.4   44 rapid requests (44.00 req/sec)
+199.19.145.254  44 rapid requests (44.00 req/sec)
+35.46.7.137     44 rapid requests (44.00 req/sec)
+66.249.71.161   44 rapid requests (44.00 req/sec)
+68.229.22.74    44 rapid requests (44.00 req/sec)
+69.58.178.59    44 rapid requests (44.00 req/sec)
+94.21.58.240    44 rapid requests (44.00 req/sec)
+141.218.12.135  43 rapid requests (43.00 req/sec)
+66.249.72.97    43 rapid requests (43.00 req/sec)
+75.68.241.1     43 rapid requests (43.00 req/sec)
+78.177.199.74   43 rapid requests (43.00 req/sec)
+1.221.194.53    42 rapid requests (42.00 req/sec)
+173.202.82.174  42 rapid requests (42.00 req/sec)
+173.240.20.137  42 rapid requests (42.00 req/sec)
+184.88.11.243   42 rapid requests (42.00 req/sec)
+198.108.213.212 42 rapid requests (42.00 req/sec)
+204.113.97.34   42 rapid requests (42.00 req/sec)
+24.13.86.59     42 rapid requests (42.00 req/sec)
+46.4.100.231    42 rapid requests (42.00 req/sec)
+68.227.255.42   42 rapid requests (42.00 req/sec)
+71.173.177.43   42 rapid requests (42.00 req/sec)
+74.130.11.119   42 rapid requests (42.00 req/sec)
+75.136.23.199   42 rapid requests (42.00 req/sec)
+128.253.42.188  41 rapid requests (41.00 req/sec)
+31.7.57.254     41 rapid requests (41.00 req/sec)
+50.0.142.222    41 rapid requests (41.00 req/sec)
+64.150.16.8     41 rapid requests (41.00 req/sec)
+69.204.225.248  41 rapid requests (41.00 req/sec)
+69.54.49.117    41 rapid requests (41.00 req/sec)
+69.87.160.2     41 rapid requests (41.00 req/sec)
+99.3.37.41      41 rapid requests (41.00 req/sec)
+188.175.31.20   40 rapid requests (40.00 req/sec)
+41.185.121.219  40 rapid requests (40.00 req/sec)
+66.249.71.147   40 rapid requests (40.00 req/sec)
+68.103.211.37   40 rapid requests (40.00 req/sec)
+70.185.98.125   40 rapid requests (40.00 req/sec)
+74.223.210.98   40 rapid requests (40.00 req/sec)
+110.174.214.175 39 rapid requests (39.00 req/sec)
+173.79.139.118  39 rapid requests (39.00 req/sec)
+189.216.162.31  39 rapid requests (39.00 req/sec)
+207.237.132.106 39 rapid requests (39.00 req/sec)
+24.201.122.191  39 rapid requests (39.00 req/sec)
+64.129.169.2    39 rapid requests (39.00 req/sec)
+66.249.68.243   39 rapid requests (39.00 req/sec)
+85.48.73.150    39 rapid requests (39.00 req/sec)
+91.121.116.46   39 rapid requests (39.00 req/sec)
+14.139.82.13    38 rapid requests (38.00 req/sec)
+14.210.46.133   38 rapid requests (38.00 req/sec)
+152.73.73.1     38 rapid requests (38.00 req/sec)
+173.168.127.101 38 rapid requests (38.00 req/sec)
+173.56.77.218   38 rapid requests (38.00 req/sec)
+174.252.247.42  38 rapid requests (38.00 req/sec)
+184.73.221.171  38 rapid requests (38.00 req/sec)
+194.146.217.126 38 rapid requests (38.00 req/sec)
+199.33.32.254   38 rapid requests (38.00 req/sec)
+63.192.138.155  38 rapid requests (38.00 req/sec)
+66.249.72.33    38 rapid requests (38.00 req/sec)
+70.192.12.80    38 rapid requests (38.00 req/sec)
+71.182.225.182  38 rapid requests (38.00 req/sec)
+74.44.74.39     38 rapid requests (38.00 req/sec)
+75.6.129.145    38 rapid requests (38.00 req/sec)
+79.125.2.233    38 rapid requests (38.00 req/sec)
+85.214.118.83   38 rapid requests (38.00 req/sec)
+91.121.148.173  38 rapid requests (38.00 req/sec)
+91.121.5.211    38 rapid requests (38.00 req/sec)
+93.107.154.150  38 rapid requests (38.00 req/sec)
+122.152.140.65  37 rapid requests (37.00 req/sec)
+132.170.26.103  37 rapid requests (37.00 req/sec)
+173.67.103.84   37 rapid requests (37.00 req/sec)
+176.9.139.113   37 rapid requests (37.00 req/sec)
+190.210.47.77   37 rapid requests (37.00 req/sec)
+190.254.21.199  37 rapid requests (37.00 req/sec)
+203.122.231.113 37 rapid requests (37.00 req/sec)
+213.151.218.132 37 rapid requests (37.00 req/sec)
+216.106.19.138  37 rapid requests (37.00 req/sec)
+219.89.194.138  37 rapid requests (37.00 req/sec)
+24.24.65.235    37 rapid requests (37.00 req/sec)
+41.98.117.35    37 rapid requests (37.00 req/sec)
+65.110.50.70    37 rapid requests (37.00 req/sec)
+69.37.33.91     37 rapid requests (37.00 req/sec)
+70.137.143.249  37 rapid requests (37.00 req/sec)
+79.115.76.209   37 rapid requests (37.00 req/sec)
+84.141.155.211  37 rapid requests (37.00 req/sec)
+85.118.193.171  37 rapid requests (37.00 req/sec)
+87.210.74.65    37 rapid requests (37.00 req/sec)
+89.133.8.132    37 rapid requests (37.00 req/sec)
+98.114.210.244  37 rapid requests (37.00 req/sec)
+173.23.182.171  36 rapid requests (36.00 req/sec)
+62.114.154.6    36 rapid requests (36.00 req/sec)
+68.10.165.164   36 rapid requests (36.00 req/sec)
+68.8.152.205    36 rapid requests (36.00 req/sec)
+76.27.172.7     36 rapid requests (36.00 req/sec)
+78.149.164.112  36 rapid requests (36.00 req/sec)
+79.8.11.56      36 rapid requests (36.00 req/sec)
+82.145.208.98   36 rapid requests (36.00 req/sec)
+85.75.109.103   36 rapid requests (36.00 req/sec)
+92.82.235.242   36 rapid requests (36.00 req/sec)
+108.16.66.247   35 rapid requests (35.00 req/sec)
+122.168.214.247 35 rapid requests (35.00 req/sec)
+128.151.200.66  35 rapid requests (35.00 req/sec)
+194.181.95.222  35 rapid requests (35.00 req/sec)
+212.219.188.210 35 rapid requests (35.00 req/sec)
+219.117.223.107 35 rapid requests (35.00 req/sec)
+220.68.29.130   35 rapid requests (35.00 req/sec)
+24.9.17.87      35 rapid requests (35.00 req/sec)
+41.132.81.179   35 rapid requests (35.00 req/sec)
+62.169.123.230  35 rapid requests (35.00 req/sec)
+66.195.235.242  35 rapid requests (35.00 req/sec)
+67.176.92.116   35 rapid requests (35.00 req/sec)
+68.230.49.141   35 rapid requests (35.00 req/sec)
+70.173.126.200  35 rapid requests (35.00 req/sec)
+71.194.86.209   35 rapid requests (35.00 req/sec)
+74.140.0.32     35 rapid requests (35.00 req/sec)
+74.171.25.229   35 rapid requests (35.00 req/sec)
+74.82.68.34     35 rapid requests (35.00 req/sec)
+80.60.248.32    35 rapid requests (35.00 req/sec)
+82.80.249.137   35 rapid requests (35.00 req/sec)
+92.82.225.61    35 rapid requests (35.00 req/sec)
+156.110.35.115  34 rapid requests (34.00 req/sec)
+217.69.133.70   34 rapid requests (34.00 req/sec)
+41.137.74.135   34 rapid requests (34.00 req/sec)
+50.112.39.17    34 rapid requests (34.00 req/sec)
+58.168.9.244    34 rapid requests (34.00 req/sec)
+66.135.48.191   34 rapid requests (34.00 req/sec)
+69.58.178.58    34 rapid requests (34.00 req/sec)
+85.160.84.30    34 rapid requests (34.00 req/sec)
+89.151.116.53   34 rapid requests (34.00 req/sec)
+92.82.227.105   34 rapid requests (34.00 req/sec)
+94.173.115.254  34 rapid requests (34.00 req/sec)
+108.217.96.50   33 rapid requests (33.00 req/sec)
+119.225.249.89  33 rapid requests (33.00 req/sec)
+149.156.175.76  33 rapid requests (33.00 req/sec)
+168.18.154.118  33 rapid requests (33.00 req/sec)
+178.238.235.184 33 rapid requests (33.00 req/sec)
+41.223.119.129  33 rapid requests (33.00 req/sec)
+65.111.167.87   33 rapid requests (33.00 req/sec)
+68.195.175.87   33 rapid requests (33.00 req/sec)
+69.217.199.104  33 rapid requests (33.00 req/sec)
+71.235.33.8     33 rapid requests (33.00 req/sec)
+78.134.79.26    33 rapid requests (33.00 req/sec)
+80.241.212.78   33 rapid requests (33.00 req/sec)
+81.61.41.69     33 rapid requests (33.00 req/sec)
+95.238.34.249   33 rapid requests (33.00 req/sec)
+96.254.214.201  33 rapid requests (33.00 req/sec)
+98.211.150.101  33 rapid requests (33.00 req/sec)
+125.45.237.69   32 rapid requests (32.00 req/sec)
+131.216.48.254  32 rapid requests (32.00 req/sec)
+150.108.60.80   32 rapid requests (32.00 req/sec)
+178.137.129.128 32 rapid requests (32.00 req/sec)
+178.197.232.41  32 rapid requests (32.00 req/sec)
+71.210.203.136  32 rapid requests (32.00 req/sec)
+72.233.69.25    32 rapid requests (32.00 req/sec)
+75.83.241.16    32 rapid requests (32.00 req/sec)
+76.104.85.67    32 rapid requests (32.00 req/sec)
+82.37.40.134    32 rapid requests (32.00 req/sec)
+82.67.132.206   32 rapid requests (32.00 req/sec)
+85.75.133.174   32 rapid requests (32.00 req/sec)
+86.26.137.85    32 rapid requests (32.00 req/sec)
+93.37.215.181   32 rapid requests (32.00 req/sec)
+95.220.167.43   32 rapid requests (32.00 req/sec)
+99.30.163.219   32 rapid requests (32.00 req/sec)
+109.32.161.56   31 rapid requests (31.00 req/sec)
+121.150.216.111 31 rapid requests (31.00 req/sec)
+161.13.6.26     31 rapid requests (31.00 req/sec)
+169.139.19.203  31 rapid requests (31.00 req/sec)
+173.22.35.227   31 rapid requests (31.00 req/sec)
+199.21.99.108   31 rapid requests (31.00 req/sec)
+46.186.14.92    31 rapid requests (31.00 req/sec)
+5.146.254.4     31 rapid requests (31.00 req/sec)
+50.131.59.181   31 rapid requests (31.00 req/sec)
+65.96.212.41    31 rapid requests (31.00 req/sec)
+66.66.154.150   31 rapid requests (31.00 req/sec)
+68.8.81.20      31 rapid requests (31.00 req/sec)
+69.170.38.210   31 rapid requests (31.00 req/sec)
+71.200.231.186  31 rapid requests (31.00 req/sec)
+75.190.164.0    31 rapid requests (31.00 req/sec)
+77.73.58.109    31 rapid requests (31.00 req/sec)
+92.85.172.189   31 rapid requests (31.00 req/sec)
+
+IPs with high rate of authentication failures or suspicious URL patterns:
+221.224.13.25   249 suspicious requests
+195.238.176.90  237 suspicious requests
+61.221.28.243   191 suspicious requests
+202.100.80.21   16 suspicious requests
+199.79.62.8     12 suspicious requests
+118.97.50.11    11 suspicious requests
+188.40.106.11   11 suspicious requests
+202.28.37.63    11 suspicious requests
+211.144.82.8    11 suspicious requests
+72.252.248.111  11 suspicious requests
+75.125.255.98   11 suspicious requests
+85.88.195.35    11 suspicious requests
+
+==== INSIGHTS AND RECOMMENDATIONS ====
+Based on the analysis of the log file, here are some key insights and recommendations:
+
+2. TRAFFIC PATTERNS:
+   - Peak traffic occurs around 22:00 with 9012 requests (5.97% of daily traffic).
+     Ensure system resources are optimized for this time.
+   - Traffic is lowest around 02:00 with 3902 requests (2.58% of daily traffic).
+     Consider scheduling maintenance during this period.
+3. TRAFFIC DISTRIBUTION:
+   - Traffic is distributed across 9255 unique IP addresses.
+   - The most active IP (76.108.110.119) accounts for 7.80% of all traffic.
+5. SECURITY RECOMMENDATIONS:
+   - Implement rate limiting to prevent abuse from single IP addresses:
+     * Consider limits like 1000 requests/minute per IP
+     * Implement stricter limits for sensitive endpoints
+   - Consider using a Web Application Firewall to block suspicious traffic patterns.
+   - Regularly review authentication endpoints for brute force attempts.
+   - Monitor error rates and investigate anomalies promptly.
+   - Review IPs flagged in the security analysis section.
+6. PERFORMANCE RECOMMENDATIONS:
+   - Schedule resource-intensive tasks during low-traffic periods (around 02:00).
+   - Ensure sufficient capacity during peak hours (around 22:00).
+   - Address server errors to improve system reliability and user experience.
+   - Consider caching for endpoints with high traffic but low change frequency.
+   - Optimize endpoints with high error rates (see error patterns section).
+
+==== KEY FINDINGS SUMMARY ====
+1. Total requests: 147820
+2. Error rate: 2.91
+3. Unique IPs: 9312
+4. Peak traffic hour: 22:00 (9012 requests)
+5. Most active IP: 76.108.110.119 (11773 requests)
+6. Most common error:  ( occurrences)
+
+==== END OF REPORT ====
